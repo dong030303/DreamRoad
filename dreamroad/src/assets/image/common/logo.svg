@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #ff0;
+      }
+
+      .cls-3 {
+        fill: #030436;
+        font-size: 45px;
+        font-weight: 900;
+        font-family: NanumSquareRoundEB, NanumSquareRound;
+      }
+    </style>
+  </defs>
+  <g id="그룹_6" data-name="그룹 6" transform="translate(-883 -976)">
+    <g id="그룹_5" data-name="그룹 5" transform="translate(247.283 722.237)">
+      <path id="패스_10" data-name="패스 10" class="cls-1" d="M677.246,254.35" transform="translate(39.406 4.609)"/>
+      <path id="빼기_2" data-name="빼기 2" class="cls-2" d="M-183.483-534.236a50.266,50.266,0,0,1-11.846-1.411,49.777,49.777,0,0,1-10.83-4.011,50.189,50.189,0,0,1-9.482-6.279,50.405,50.405,0,0,1-7.8-8.214,51.73,51.73,0,0,0,23.279,5.458A52.323,52.323,0,0,0-147.9-600.957a51.741,51.741,0,0,0-5.458-23.279,50.4,50.4,0,0,1,8.214,7.8,50.185,50.185,0,0,1,6.279,9.482,49.772,49.772,0,0,1,4.011,10.83,50.265,50.265,0,0,1,1.411,11.846,49.726,49.726,0,0,1-3.932,19.478A49.875,49.875,0,0,1-148.1-548.892,49.873,49.873,0,0,1-164-538.168,49.726,49.726,0,0,1-183.483-534.236Z" transform="translate(859.16 877.998)"/>
+    </g>
+    <text id="꿈길" class="cls-3" transform="translate(883 1034.5)"><tspan x="0" y="0">꿈길</tspan></text>
+  </g>
+</svg>
