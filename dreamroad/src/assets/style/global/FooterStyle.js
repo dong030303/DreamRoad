@@ -41,7 +41,7 @@ export const FooterLink = styled.a`
 export const ContentBox = styled.div`
     display: flex;
     height: 48px;
-    width: 50%
+    width: 50%;
 `;
 
 export const TextBox = styled.div`
