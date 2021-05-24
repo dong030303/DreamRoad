@@ -1,6 +1,7 @@
 import * as E from '../../assets/style/entrance/EntranceStyle'
 import Footer from '../global/Footer'
 import { logo } from '../../assets/image/common'
+import {Link} from 'react-router-dom'
 
 const Entrance = () => {
     return(
@@ -18,9 +19,9 @@ const Entrance = () => {
                     <E.ToTestBtn>
                         <E.TLBText>비회원으로 진행</E.TLBText>
                     </E.ToTestBtn>
-                    <E.ToLoginBtn>
+                    <Link to="/login"><E.ToLoginBtn>
                         <E.TLBText>회원으로 진행</E.TLBText>
-                    </E.ToLoginBtn>
+                    </E.ToLoginBtn></Link>
                 </E.ButtonBox>
             </E.ContentArticle>
             <Footer></Footer>
